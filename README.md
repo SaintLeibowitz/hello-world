@@ -1,2 +1,4 @@
 # hello-world
-Newwwwwbbbb...
+First Repository
+
+Beginner hobbyist coder.
